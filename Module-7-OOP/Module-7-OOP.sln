@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task.7.1.5.1", "Task.7.1.5.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task.7.1.10", "Task.7.1.10\Task.7.1.10.csproj", "{08BA9248-0551-4CE3-A4AF-559854AFEA16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task.7.2.3.polymorphism", "Task.7.2.3\Task.7.2.3.polymorphism.csproj", "{3E41E7CC-131D-438D-8288-0A5264BADE50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task.7.2.3.and.7.2.5.polymorphism", "Task.7.2.3\Task.7.2.3.and.7.2.5.polymorphism.csproj", "{3E41E7CC-131D-438D-8288-0A5264BADE50}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task.7.2.4", "Task.7.2.4\Task.7.2.4.csproj", "{CB56188F-3F20-4F7B-BC2D-6380E5506F9B}"
 EndProject
@@ -60,5 +60,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52C2A198-26AE-42F8-A87B-099BFCAD2066}
 	EndGlobalSection
 EndGlobal
