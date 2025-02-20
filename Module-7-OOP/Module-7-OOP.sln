@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task.7.2.7", "Task.7.2.7\Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task.7.2.12", "Task.7.2.12\Task.7.2.12.csproj", "{FCB956FB-F27C-4E6A-96FC-C099D126463F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task.7.2.14.TheIndexer", "Task.7.2.14.TheIndexer\Task.7.2.14.TheIndexer.csproj", "{D34C65D5-4B22-42DA-B2E8-812D4D0CAA32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{FCB956FB-F27C-4E6A-96FC-C099D126463F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCB956FB-F27C-4E6A-96FC-C099D126463F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCB956FB-F27C-4E6A-96FC-C099D126463F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34C65D5-4B22-42DA-B2E8-812D4D0CAA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34C65D5-4B22-42DA-B2E8-812D4D0CAA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34C65D5-4B22-42DA-B2E8-812D4D0CAA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34C65D5-4B22-42DA-B2E8-812D4D0CAA32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
